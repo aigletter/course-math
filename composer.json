@@ -1,0 +1,19 @@
+{
+    "name": "aigletter/course-math",
+    "description": "Test math package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yurii Orlyk",
+            "email": "aigletter@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Course\\": "src"
+        }
+    }
+}
